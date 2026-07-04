@@ -2,7 +2,7 @@
 
 A machine learning framework for predicting aqueous solubility (logS) from molecular structure. This project compares different molecular representations and ML models to accurately predict solubility from SMILES strings.
 
-## 📋 Overview
+## Overview
 
 Aqueous solubility is a critical physicochemical property in drug discovery, environmental chemistry, and material science. Experimental measurement is time-consuming and expensive, driving the need for reliable computational models.
 
