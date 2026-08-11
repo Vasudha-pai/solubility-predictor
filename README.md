@@ -17,5 +17,5 @@ This project implements and evaluates:
 **Hybrid features outperform individual representations** - Combining structural fingerprints with physicochemical descriptors improves predictions (R² 0.783 vs 0.683)
 **Random Forest outperforms XGBoost** on this dataset
 **MolLogP is the most important feature** - reflects the centrality of hydrophobicity in solubility
-**Model learns chemically meaningful relationships** - SHAP analysis confirms chemical intuition
+**Model learns chemically meaningful relationships** - SHAP analysis for explainable AI
 
